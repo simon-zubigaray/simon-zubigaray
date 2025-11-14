@@ -11,7 +11,7 @@ I am a web application development technical student, currently halfway through 
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, ⚽I love playing soccer, 🎮 playing videogames, and 🎵 listening to music.
-- 📫 Reach out to me at: <a href="zubigarayjuansimon@gmail.com">zubigarayjuansimon@gmail.com</a>
+- 📫 Reach out to me at: <a href="zubigaray.js@proton.me">zubigarayjuansimon@gmail.com</a>
 
 ## My Skills Include
 
